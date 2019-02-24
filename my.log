@@ -1,0 +1,322 @@
+2019-02-24 14:24:56.789  INFO 16260 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 16260 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:24:56.818  INFO 16260 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:24:57.687  INFO 16260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:24:57.712  INFO 16260 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:24:57.713  INFO 16260 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:24:57.721  INFO 16260 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:24:57.808  INFO 16260 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:24:57.809  INFO 16260 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 951 ms
+2019-02-24 14:24:57.964  INFO 16260 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:24:58.104  INFO 16260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:24:58.106  INFO 16260 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.699 seconds (JVM running for 2.567)
+2019-02-24 14:25:11.988  INFO 16260 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:25:11.989  INFO 16260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:25:11.995  INFO 16260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-24 14:28:05.219  INFO 5192 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 5192 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:28:05.222  INFO 5192 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:28:06.081  INFO 5192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:28:06.099  INFO 5192 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:28:06.100  INFO 5192 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:28:06.109  INFO 5192 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:28:06.200  INFO 5192 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:28:06.201  INFO 5192 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 947 ms
+2019-02-24 14:28:06.368  INFO 5192 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:28:06.495  INFO 5192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:28:06.498  INFO 5192 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.686 seconds (JVM running for 2.643)
+2019-02-24 14:33:05.586  INFO 5192 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:33:05.587  INFO 5192 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:33:05.593  INFO 5192 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-24 14:33:46.613  INFO 3440 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 3440 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:33:46.616  INFO 3440 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:33:47.700  INFO 3440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:33:47.727  INFO 3440 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:33:47.727  INFO 3440 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:33:47.735  INFO 3440 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:33:47.840  INFO 3440 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:33:47.841  INFO 3440 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1180 ms
+2019-02-24 14:33:48.012  INFO 3440 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:33:48.073  INFO 3440 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:33:48.151  INFO 3440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:33:48.153  INFO 3440 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.889 seconds (JVM running for 2.723)
+2019-02-24 14:33:51.800  INFO 3440 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:33:51.801  INFO 3440 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:33:51.805  INFO 3440 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:44:42.074  INFO 20828 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 20828 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:44:42.076  INFO 20828 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:44:42.993  INFO 20828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:44:43.014  INFO 20828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:44:43.015  INFO 20828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:44:43.023  INFO 20828 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:44:43.112  INFO 20828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:44:43.112  INFO 20828 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 998 ms
+2019-02-24 14:44:43.276  INFO 20828 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:44:43.338  INFO 20828 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:44:43.411  INFO 20828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:44:43.414  INFO 20828 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.664 seconds (JVM running for 2.495)
+2019-02-24 14:44:50.747  INFO 20828 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:44:50.748  INFO 20828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:44:50.755  INFO 20828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-02-24 14:47:33.102  INFO 16548 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 16548 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:47:33.105  INFO 16548 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:47:34.081  INFO 16548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:47:34.101  INFO 16548 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:47:34.101  INFO 16548 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:47:34.108  INFO 16548 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:47:34.197  INFO 16548 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:47:34.197  INFO 16548 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1054 ms
+2019-02-24 14:47:34.368  INFO 16548 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:47:34.427  INFO 16548 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:47:34.500  INFO 16548 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:47:34.503  INFO 16548 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.726 seconds (JVM running for 2.525)
+2019-02-24 14:47:40.986  INFO 16548 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:47:40.987  INFO 16548 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:47:40.992  INFO 16548 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-24 14:48:49.510  INFO 17904 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 17904 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:48:49.513  INFO 17904 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:48:50.383  INFO 17904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:48:50.402  INFO 17904 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:48:50.402  INFO 17904 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:48:50.407  INFO 17904 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:48:50.500  INFO 17904 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:48:50.500  INFO 17904 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 946 ms
+2019-02-24 14:48:50.656  INFO 17904 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:48:50.718  INFO 17904 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:48:50.791  INFO 17904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:48:50.794  INFO 17904 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.631 seconds (JVM running for 2.37)
+2019-02-24 14:49:15.671  INFO 17904 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:49:15.671  INFO 17904 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:49:15.676  INFO 17904 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-24 14:50:02.971  INFO 18196 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 18196 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:50:02.974  INFO 18196 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:50:03.913  INFO 18196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:50:03.943  INFO 18196 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:50:03.944  INFO 18196 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:50:03.952  INFO 18196 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:50:04.054  INFO 18196 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:50:04.055  INFO 18196 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1042 ms
+2019-02-24 14:50:04.230  INFO 18196 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:50:04.299  INFO 18196 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:50:04.381  INFO 18196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:50:04.383  INFO 18196 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.724 seconds (JVM running for 2.389)
+2019-02-24 14:50:12.261  INFO 18196 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:50:12.261  INFO 18196 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:50:12.265  INFO 18196 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:50:32.719  INFO 16952 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 16952 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:50:32.722  INFO 16952 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:50:33.729  INFO 16952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:50:33.755  INFO 16952 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:50:33.756  INFO 16952 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:50:33.765  INFO 16952 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:50:33.863  INFO 16952 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:50:33.863  INFO 16952 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1094 ms
+2019-02-24 14:50:34.016  INFO 16952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:50:34.153  INFO 16952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:50:34.155  INFO 16952 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.782 seconds (JVM running for 2.447)
+2019-02-24 14:50:40.265  INFO 16952 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:50:40.266  INFO 16952 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:50:40.270  INFO 16952 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:51:22.685  INFO 10480 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 10480 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:51:22.688  INFO 10480 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:51:23.623  INFO 10480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:51:23.651  INFO 10480 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:51:23.652  INFO 10480 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:51:23.662  INFO 10480 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:51:23.766  INFO 10480 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:51:23.766  INFO 10480 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1040 ms
+2019-02-24 14:51:23.944  INFO 10480 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:51:24.008  INFO 10480 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 14:51:24.093  INFO 10480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:51:24.096  INFO 10480 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.768 seconds (JVM running for 2.508)
+2019-02-24 14:51:27.607  INFO 10480 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:51:27.607  INFO 10480 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:51:27.612  INFO 10480 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:52:34.503  INFO 1400 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 1400 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:52:34.505  INFO 1400 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:52:35.400  INFO 1400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:52:35.419  INFO 1400 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:52:35.420  INFO 1400 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:52:35.426  INFO 1400 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:52:35.520  INFO 1400 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:52:35.521  INFO 1400 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 969 ms
+2019-02-24 14:52:35.675  INFO 1400 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:52:35.736  INFO 1400 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:52:35.813  INFO 1400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:52:35.815  INFO 1400 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.651 seconds (JVM running for 2.394)
+2019-02-24 14:52:38.861  INFO 1400 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:52:38.861  INFO 1400 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:52:38.865  INFO 1400 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:52:38.894  WARN 1400 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:52:39.995  WARN 1400 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:52:40.743  WARN 1400 --- [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:52:41.399  WARN 1400 --- [http-nio-8080-exec-7] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:52:42.053  WARN 1400 --- [http-nio-8080-exec-9] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:52:42.567  WARN 1400 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:53:20.938  INFO 10892 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 10892 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:53:20.941  INFO 10892 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:53:21.818  INFO 10892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:53:21.839  INFO 10892 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:53:21.839  INFO 10892 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:53:21.846  INFO 10892 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:53:21.940  INFO 10892 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:53:21.940  INFO 10892 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 955 ms
+2019-02-24 14:53:22.096  INFO 10892 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:53:22.229  INFO 10892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:53:22.231  INFO 10892 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.611 seconds (JVM running for 2.322)
+2019-02-24 14:53:25.741  INFO 10892 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:53:25.741  INFO 10892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:53:25.745  INFO 10892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:54:00.748  INFO 3000 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 3000 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:54:00.753  INFO 3000 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:54:01.612  INFO 3000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:54:01.634  INFO 3000 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:54:01.634  INFO 3000 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:54:01.639  INFO 3000 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:54:01.736  INFO 3000 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:54:01.737  INFO 3000 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 949 ms
+2019-02-24 14:54:01.897  INFO 3000 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:54:01.959  INFO 3000 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 14:54:02.033  INFO 3000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:54:02.036  INFO 3000 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.621 seconds (JVM running for 2.339)
+2019-02-24 14:54:06.948  INFO 3000 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:54:06.948  INFO 3000 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:54:06.956  INFO 3000 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-02-24 14:54:53.938  INFO 13292 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 13292 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:54:53.942  INFO 13292 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:54:54.908  INFO 13292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:54:54.929  INFO 13292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:54:54.930  INFO 13292 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:54:54.935  INFO 13292 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:54:55.027  INFO 13292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:54:55.027  INFO 13292 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1045 ms
+2019-02-24 14:54:55.177  INFO 13292 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:54:55.251  INFO 13292 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:54:55.313  INFO 13292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:54:55.316  INFO 13292 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.787 seconds (JVM running for 2.478)
+2019-02-24 14:54:59.617  INFO 13292 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:54:59.617  INFO 13292 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:54:59.622  INFO 13292 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:56:15.133  INFO 1344 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 1344 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:56:15.136  INFO 1344 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:56:16.091  INFO 1344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:56:16.114  INFO 1344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:56:16.115  INFO 1344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:56:16.124  INFO 1344 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:56:16.227  INFO 1344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:56:16.227  INFO 1344 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1056 ms
+2019-02-24 14:56:16.378  INFO 1344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:56:16.437  INFO 1344 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:56:16.513  INFO 1344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:56:16.515  INFO 1344 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.69 seconds (JVM running for 2.375)
+2019-02-24 14:56:19.125  INFO 1344 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:56:19.125  INFO 1344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:56:19.130  INFO 1344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-24 14:56:19.158  WARN 1344 --- [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:56:20.000  WARN 1344 --- [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:56:20.769  WARN 1344 --- [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:56:21.241  WARN 1344 --- [http-nio-8080-exec-4] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:56:22.660  WARN 1344 --- [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Path represents URL or has "url:" prefix: [classpath:/templates/index.html]
+2019-02-24 14:56:59.415  INFO 19892 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 19892 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:56:59.418  INFO 19892 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:57:00.282  INFO 19892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:57:00.302  INFO 19892 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:57:00.302  INFO 19892 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:57:00.310  INFO 19892 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:57:00.398  INFO 19892 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:57:00.398  INFO 19892 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 945 ms
+2019-02-24 14:57:00.553  INFO 19892 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:57:00.614  INFO 19892 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:57:00.689  INFO 19892 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:57:00.691  INFO 19892 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.599 seconds (JVM running for 2.308)
+2019-02-24 14:57:03.919  INFO 19892 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:57:03.920  INFO 19892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:57:03.926  INFO 19892 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-24 14:57:52.847  INFO 20584 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 20584 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:57:52.851  INFO 20584 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:57:53.730  INFO 20584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:57:53.749  INFO 20584 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:57:53.750  INFO 20584 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:57:53.757  INFO 20584 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:57:53.846  INFO 20584 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:57:53.847  INFO 20584 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 957 ms
+2019-02-24 14:57:53.998  INFO 20584 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:57:54.060  INFO 20584 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 14:57:54.123  INFO 20584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:57:54.125  INFO 20584 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.659 seconds (JVM running for 2.368)
+2019-02-24 14:57:57.213  INFO 20584 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:57:57.214  INFO 20584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:57:57.218  INFO 20584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 14:59:30.535  INFO 14860 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 14860 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 14:59:30.538  INFO 14860 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 14:59:31.490  INFO 14860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 14:59:31.529  INFO 14860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 14:59:31.530  INFO 14860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 14:59:31.539  INFO 14860 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 14:59:31.660  INFO 14860 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 14:59:31.660  INFO 14860 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1079 ms
+2019-02-24 14:59:31.847  INFO 14860 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 14:59:31.917  INFO 14860 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 14:59:31.992  INFO 14860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 14:59:31.995  INFO 14860 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.793 seconds (JVM running for 2.451)
+2019-02-24 14:59:34.943  INFO 14860 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 14:59:34.943  INFO 14860 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 14:59:34.948  INFO 14860 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-24 15:00:20.796  INFO 20392 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 20392 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 15:00:20.799  INFO 20392 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 15:00:21.643  INFO 20392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 15:00:21.664  INFO 20392 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 15:00:21.664  INFO 20392 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 15:00:21.669  INFO 20392 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 15:00:21.755  INFO 20392 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 15:00:21.756  INFO 20392 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 906 ms
+2019-02-24 15:00:21.908  INFO 20392 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 15:00:21.982  INFO 20392 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-02-24 15:00:22.047  INFO 20392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 15:00:22.050  INFO 20392 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.601 seconds (JVM running for 2.293)
+2019-02-24 15:00:25.440  INFO 20392 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 15:00:25.441  INFO 20392 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 15:00:25.447  INFO 20392 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-02-24 15:01:32.059  INFO 15028 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 15028 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 15:01:32.062  INFO 15028 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 15:01:32.906  INFO 15028 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 15:01:32.925  INFO 15028 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 15:01:32.925  INFO 15028 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 15:01:32.931  INFO 15028 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 15:01:33.022  INFO 15028 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 15:01:33.022  INFO 15028 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 926 ms
+2019-02-24 15:01:33.185  INFO 15028 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 15:01:33.246  INFO 15028 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 15:01:33.318  INFO 15028 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 15:01:33.322  INFO 15028 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.587 seconds (JVM running for 2.273)
+2019-02-24 15:01:36.498  INFO 15028 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 15:01:36.498  INFO 15028 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 15:01:36.503  INFO 15028 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2019-02-24 15:04:19.693  INFO 12680 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 12680 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 15:04:19.695  INFO 12680 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 15:04:20.545  INFO 12680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 15:04:20.568  INFO 12680 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 15:04:20.568  INFO 12680 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 15:04:20.574  INFO 12680 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 15:04:20.685  INFO 12680 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 15:04:20.685  INFO 12680 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 954 ms
+2019-02-24 15:04:20.915  INFO 12680 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 15:04:20.987  INFO 12680 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 15:04:21.074  INFO 12680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 15:04:21.077  INFO 12680 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.724 seconds (JVM running for 2.498)
+2019-02-24 15:04:25.098  INFO 12680 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 15:04:25.099  INFO 12680 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 15:04:25.103  INFO 12680 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-02-24 15:05:51.491  INFO 20544 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on DESKTOP-P306MAB with PID 20544 (F:\springboot\target\classes started by gzt0908 in F:\springboot)
+2019-02-24 15:05:51.494  INFO 20544 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2019-02-24 15:05:52.335  INFO 20544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-24 15:05:52.353  INFO 20544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-24 15:05:52.353  INFO 20544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-24 15:05:52.359  INFO 20544 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\software\Git\cmd;E:\software\hadoop-2.7.3\bin;E:\software\Java\jdk1.8.0_131\bin;C:\Users\ayyk\AppData\Local\Microsoft\WindowsApps;;.]
+2019-02-24 15:05:52.449  INFO 20544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-24 15:05:52.449  INFO 20544 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 918 ms
+2019-02-24 15:05:52.609  INFO 20544 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-24 15:05:52.669  INFO 20544 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2019-02-24 15:05:52.746  INFO 20544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-24 15:05:52.748  INFO 20544 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.563 seconds (JVM running for 2.259)
+2019-02-24 15:05:58.938  INFO 20544 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-24 15:05:58.938  INFO 20544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-02-24 15:05:58.943  INFO 20544 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
